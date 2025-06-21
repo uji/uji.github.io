@@ -20,7 +20,7 @@ function App() {
     <>
       <img src={ujiIcon} className="icon" alt="Uji icon" />
       <h1>uji</h1>
-      <p>Software developer @MoneyForward</p>
+      <p>Software developer @NOT A HOTEL, Inc.</p>
       <Card />
     </>
   )
